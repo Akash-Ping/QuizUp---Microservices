@@ -22,4 +22,3 @@ SpringBoot QuizApp with MicroService Architecture
 
 5) 'quiz' database for quiz-microservice and two tables named 'quiz' and 'quiz_question_ids' are there which created automatically when services communicate each other. So there is no need to make tables for 'quiz' database.
 
-:- P.S Rajput
